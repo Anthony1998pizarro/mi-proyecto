@@ -1,6 +1,6 @@
 #script de prueba para git
 #autor: Pizarro Anthony <apizarrom@est.ups.edu.ec>
-#fecha: 2/7/2020
+#fecha: 6/8/2020
 #version 1.0.0
 
 def main():
